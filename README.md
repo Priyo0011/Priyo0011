@@ -8,10 +8,10 @@
 
 
 
-## **My Skills:**
+## **:wrench:My Skills :**
 
 <br/>
-<p>
+<p align="center">
 <img height="60" src="images/technologies/HTML5.png"/>
 <img height="60" src="images/technologies/CSS3.png"/>
 <img height="60" src="images/technologies/TAILWIND.png"/>
@@ -23,12 +23,6 @@
 <img height="60" src="images/technologies/MONGODB.png"/>
 
 </p>
-<br/>
-
-## **:wrench:My Tools:**
-
-<img src="https://img.shields.io/badge/Git-e94e31?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />&nbsp;
 <br/>
 
 ## :mailbox: Reach Out to Me\_
@@ -46,8 +40,3 @@
    <img src="https://github-readme-streak-stats.herokuapp.com?user=Priyo0011&theme=react&hide_border=true&background=161C27&stroke=0D1117&fire=fb8c00&sideLabels=fff&currStreakNum=fff&ring=fff&currStreakLabel=fff&sideNums=fff" style="height: 200px; width: 45%;" />
 </div>
 
-
-###
-
-[facebook]: https://www.facebook.com/Priyotosh0011 'Facebook'
-[linkedin]: www.linkedin.com/in/priyotosh-biswas 'LinkedIn'
