@@ -33,7 +33,7 @@
 
 <br/>
 
-## **:chart_with_upwards_trend: Current Stats: **
+## :chart_with_upwards_trend: Current Stats:
 
 <br />
 <div align="center">
