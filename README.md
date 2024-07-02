@@ -11,7 +11,7 @@
 ## **My Skills:**
 
 <br/>
-<p align="center">
+<p>
 <img height="60" src="images/technologies/HTML5.png"/>
 <img height="60" src="images/technologies/CSS3.png"/>
 <img height="60" src="images/technologies/TAILWIND.png"/>
