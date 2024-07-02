@@ -35,7 +35,7 @@
 
 <br/>
 
-<p align="center"> [<img height="50" src="images/social-medias/LINKEDIN.png">](www.linkedin.com/in/priyotosh-biswas)&nbsp;&nbsp;&nbsp;&nbsp; [<img height="50" src="images/social-medias/FACEBOOK.png">](https://www.facebook.com/Priyotosh0011)&nbsp;&nbsp;&nbsp;&nbsp; [<img height="50" src="images/social-medias/TWITTER.png">](https://twitter.com/PBPriyo0011) </p>
+**_<p align="center"> [<img height="50" src="images/social-medias/LINKEDIN.png">](www.linkedin.com/in/priyotosh-biswas)&nbsp;&nbsp;&nbsp;&nbsp; [<img height="50" src="images/social-medias/FACEBOOK.png">](https://www.facebook.com/Priyotosh0011)&nbsp;&nbsp;&nbsp;&nbsp; [<img height="50" src="images/social-medias/TWITTER.png">](https://twitter.com/PBPriyo0011) </p>_**
 
 <br/>
 
