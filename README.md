@@ -25,7 +25,7 @@
 </p>
 <br/>
 
-## :mailbox: Reach Out to Me\_
+## **:mailbox: Reach Out to Me :**
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 <br/>
 
-## :chart_with_upwards_trend: Current Stats
+## **:chart_with_upwards_trend: Current Stats: **
 
 <br />
 <div align="center">
